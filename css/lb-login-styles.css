@@ -1,0 +1,17 @@
+p {
+    color: pink;
+}
+
+#login h1 a, .login h1 a {
+    background-image: url("../img/logo.png");
+    height: 150px;
+    width: 150px;
+    background-size: 320px 65px;
+    background-repeat: no-repeat;
+    padding-bottom: 30px;
+}
+
+body.login div#login form#loginform input {
+    color: green;
+    background-color: yellow;
+}
